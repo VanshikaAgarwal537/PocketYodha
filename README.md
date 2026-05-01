@@ -210,17 +210,6 @@ battles      — id, user_id, demon, result (win/lose),
 
 achievements — id, user_id, achievement, earned_at
 ```
-
----
-
-## 👥 Team
-
-| Member | Role |
-|---|---|
-| Siddhi Gupta | Frontend Development (React, UI/UX) |
-| Mitul Khanna & Vanshika Agarwal | Backend Development (Flask, SQLite) |
-| Vandan Maheshwari & Havya Thakar | ML/OCR Integration (Classifier, Tesseract) |
-
 ---
 
 ## 🏫 Institution
