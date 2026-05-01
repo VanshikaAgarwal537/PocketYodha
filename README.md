@@ -212,22 +212,6 @@ achievements — id, user_id, achievement, earned_at
 ```
 ---
 
-## 🏫 Institution
-
-**VIT Bhopal University**<br>
-School of Computing Science and Engineering<br>
-B.Tech — Computer Science and Engineering<br>
-April 2025
-
----
-
-## 📄 License
-
-This project was built as an academic submission for VIT Bhopal University.
-
----
-
 <div align="center">
-  <strong>Built with ❤️ by Team PocketYodha</strong><br/>
   <em>"Train Your Money Mind"</em>
 </div>
